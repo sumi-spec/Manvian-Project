@@ -1,0 +1,17 @@
+# System / OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+
+# IDEs
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
